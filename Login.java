@@ -70,7 +70,7 @@ public class Login extends JFrame implements ActionListener{
         if(e.getSource()==buttonok)
         {
            
-           if(id.equals("hello")&&pass.equals("56789"))//id pass change
+           if(id.equals("hello")&&pass.equals("56789"))//id pass change v2
             {
            
         
