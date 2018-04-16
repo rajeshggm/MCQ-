@@ -15,6 +15,7 @@ public class Login extends JFrame implements ActionListener{
  String id , pass;
  Login()   
  {
+  //System.out.println("hello");
   jp = new JPanel(); 
   jp.setBounds(0,0,400,300);
   jp.setLayout(null);   
